@@ -13,6 +13,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     <a href="http://localhost:8080/html5/love/love.html">love</a><br>
     <a href="http://localhost:8080/html5/canvas.video/index.html">canvas视频</a></br>
     <a href="http://localhost:8080/html5/jianzhan/index.html">建站</a></br>
-    <a href="http://localhost:8080/html5/gundong/index.html">滚动模板</a>
+    <a href="http://localhost:8080/html5/gundong/index.html">滚动模板 </a>
   </body>
 </html>
